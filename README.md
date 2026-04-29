@@ -2,6 +2,8 @@
 
 A 2D space shooter game built with Unity and exported as a WebGL build — playable directly in the browser.
 
+![](media/game-demo.gif)
+
 ## 🎮 Play the Game
 
 ▶️ **[Play Now](https://brandonshrt.github.io/space-shooter/)**
