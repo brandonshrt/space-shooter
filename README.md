@@ -15,9 +15,7 @@ Space Shooter is a classic arcade-style 2D game where you pilot a spaceship and 
 | Action | Key |
 |--------|-----|
 | Move | `W A S D` or Arrow Keys |
-| Shoot | `Spacebar` or `Left Click` |
-
-> *(Update these controls to match your actual game!)*
+| Shoot | `Left Click` |
 
 ## 🛠️ Built With
 
